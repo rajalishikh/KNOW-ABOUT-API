@@ -12,3 +12,5 @@ shop={
 }
 let conert=JSON.stringify(shop)
 console.log(conert)
+let translate_obj=JSON.parse(conert)
+console.log(translate_obj)
